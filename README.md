@@ -1,7 +1,7 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 ## Demo
-#### Here is a working live demo :  https://e-coin2022.netlify.app/
+#### live demo :  https://e-coin2022.netlify.app/
 
 ## Built with 
 
